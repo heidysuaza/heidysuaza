@@ -15,11 +15,15 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy **Tecnóloga certificada en Análisis y Desarrollo de Software**, con formación y experiencia práctica en el desarrollo, mantenimiento y validación de soluciones de software.
+Soy **Tecnóloga certificada en Análisis y Desarrollo de Software** y actualmente estudio **Ingeniería en Inteligencia Artificial y Ciencias de Datos en la Universidad Nacional Abierta y a Distancia (UNAD)**.
 
-Cuento con conocimientos en **desarrollo Frontend y Backend, análisis de requerimientos, bases de datos, consultas SQL, integración de APIs y control de versiones**. También tengo experiencia en ambientes empresariales realizando **consultas de logs, análisis de información, monitoreo con Grafana, trabajo con servicios AWS, modificaciones de registros y validación de errores**.
+Cuento con formación y experiencia práctica en el desarrollo, mantenimiento y validación de soluciones de software. Tengo conocimientos en **desarrollo Frontend y Backend, análisis de requerimientos, bases de datos, consultas SQL, integración de APIs y control de versiones**.
 
-Me caracterizo por ser una persona **responsable, proactiva, adaptable y orientada al aprendizaje continuo**. Tengo interés en seguir creciendo profesionalmente, participar en proyectos tecnológicos y aportar soluciones eficientes, funcionales y de calidad.
+También cuento con experiencia en entornos empresariales realizando **consultas y análisis de logs mediante SQL, monitoreo con Grafana, trabajo con servicios AWS, modificación de tablas y registros, ejecución de pruebas, validación de errores y elaboración de reportes y evidencias de funcionamiento**.
+
+Actualmente, mi formación en **Inteligencia Artificial y Ciencias de Datos** me permite ampliar mis conocimientos hacia áreas como el análisis de datos, automatización, inteligencia artificial y desarrollo de soluciones basadas en datos.
+
+Me caracterizo por ser una persona **responsable, proactiva, adaptable y orientada al aprendizaje continuo**, con interés en seguir creciendo profesionalmente y participar en proyectos tecnológicos donde pueda aplicar y fortalecer mis conocimientos.
 
 ---
 
@@ -159,8 +163,13 @@ Aquí encontrarás algunos de mis proyectos académicos y personales relacionado
 
 ## 📚 Formación
 
-🎓 **Tecnóloga en Análisis y Desarrollo de Software**  
-**SENA – Centro de Formación Agroindustrial**
+🎓 **Ingeniería en Inteligencia Artificial y Ciencias de Datos**  
+**Universidad Nacional Abierta y a Distancia – UNAD**  
+*Actualmente en curso*
+
+🎓 **Tecnología en Análisis y Desarrollo de Software**  
+**SENA – Centro de Formación Agroindustrial**  
+*Tecnóloga certificada*
 
 🎓 **Bachiller Académico**  
 Institución Educativa Roberto Suaza Marquínez
