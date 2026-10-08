@@ -282,4 +282,3 @@ Actualmente estoy enfocada en ampliar mis conocimientos en **Inteligencia Artifi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
-```
